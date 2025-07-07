@@ -67,8 +67,8 @@ It only crawls listing pages and does not visit individual book detail pages.
 
 ## Resources
 
-* [Scrapy Documentation](https://docs.scrapy.org/en/latest/)
-* [Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
-* [Scrapy GitHub](https://github.com/scrapy/scrapy)
+[Scrapy Documentation](https://docs.scrapy.org/en/latest/)
+[Scrapy Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+[Scrapy GitHub](https://github.com/scrapy/scrapy)
 
 ````
