@@ -1,0 +1,6 @@
+Topics to cover in this section:
+- Generators
+- Iterators
+- Context Managers
+- Metaclasses (basic)
+- functools (lru_cache, partial)

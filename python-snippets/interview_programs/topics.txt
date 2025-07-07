@@ -1,0 +1,8 @@
+Topics to cover in this section:
+- Pattern printing (stars, numbers, pyramids)
+- Palindrome check
+- Prime number check
+- Fibonacci series
+- String reversals
+- List & dictionary manipulations
+- Recursion problems

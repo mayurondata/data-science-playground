@@ -1,0 +1,7 @@
+Topics to cover in this section:
+- Classes and Objects
+- Instance and Class variables
+- Inheritance types
+- Encapsulation and Abstraction
+- Polymorphism
+- Special methods (__init__, __str__, etc.)
