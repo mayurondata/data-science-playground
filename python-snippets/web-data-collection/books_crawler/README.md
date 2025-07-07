@@ -23,7 +23,7 @@ It only crawls listing pages and does not visit individual book detail pages.
    pip install scrapy
    ```
 
-````
+
 
 2. Create a Scrapy project
 
