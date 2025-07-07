@@ -6,10 +6,4 @@ The objective of this repository is to consolidate theoretical understanding and
 
 ## Folder Structure
 
-- `machine-learning/`: Contains notebooks and explanations related to foundational and advanced machine learning algorithms.
-- `deep-learning/`: Includes deep learning concepts, neural network architectures, and experimental implementations.
-- `statistics/`: Focuses on statistical methods and their application in data science.
-- `python-snippets/`: Handy Python scripts and code samples relevant to data analysis and algorithmic thinking.
-- `resources/`: Supplementary material such as reference sheets, links, and curated reading lists.
-
 Each section will be updated incrementally as I progress in my learning journey.
