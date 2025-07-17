@@ -18,6 +18,8 @@ A more formal definition from **Tom Mitchell** (1997) states:
 
 Traditional software systems are based on **explicit rules**: programmers define every possible condition and outcome. However, for many real-world problems, writing all the rules manually is either **impractical** or **impossible**.
 
+![Traditional_approach](assets\Traditional_approach.png)
+
 Here’s why Machine Learning is useful:
 
 - **Handles complexity**: ML can tackle tasks that are too complex to solve with manual rules (e.g., speech recognition, image classification).
@@ -25,6 +27,8 @@ Here’s why Machine Learning is useful:
 - **Reduces maintenance**: Instead of hardcoded logic, ML learns patterns directly from data.
 - **Reveals insights**: ML can uncover relationships or trends in large datasets that are difficult to detect manually (data mining).
 - **Supports automation**: From fraud detection to product recommendations, ML powers intelligent automation in modern systems.
+
+![ML_approach](assets\ML_appraoch.png)
 
 ---
 
@@ -56,7 +60,7 @@ Machine Learning exists within a broader technological and scientific landscape.
 
 Here’s a conceptual diagram illustrating these relationships:
 
-![AI-ML-DL-DS Venn Diagram](venn_ai_ml_ds.png)
+![AI-ML-DL-DS Venn Diagram](assets\venn_ai_ml_ds.png)
 
 ---
 
@@ -131,7 +135,7 @@ Before diving into ML, it helps to be familiar with:
 
 Machine Learning allows us to create systems that can learn, adapt, and make data-driven decisions. It is transforming industries and opening up new possibilities across fields like healthcare, finance, transportation, and beyond.
 
-Before diving into the types and techniques of ML, it's crucial to grasp its purpose, context, and foundational principles — which we've introduced here. The next steps will take you into practical workflows, project pipelines, and algorithmic insights.
+Before diving into the types and techniques of ML, it's crucial to grasp its purpose, context, and foundational principles , which we've introduced here. The next steps will take you into practical workflows, project pipelines, and algorithmic insights.
 
 ---
 
