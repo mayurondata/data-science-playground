@@ -1,0 +1,91 @@
+{
+    "publishers": [
+        "Puffin"
+    ],
+    "identifiers": {
+        "librarything": [
+            "1495"
+        ],
+        "goodreads": [
+            "109059"
+        ]
+    },
+    "weight": "6.4 ounces",
+    "isbn_10": [
+        "0142410373"
+    ],
+    "covers": [
+        8745182
+    ],
+    "local_id": [
+        "urn:phillips:31867007058006",
+        "urn:bwbsku:W7-CRD-625"
+    ],
+    "physical_format": "Paperback",
+    "lc_classifications": [
+        ""
+    ],
+    "key": "/books/OL9737402M",
+    "authors": [
+        {
+            "key": "/authors/OL34184A"
+        }
+    ],
+    "ocaid": "matilda00roal",
+    "contributions": [
+        "Quentin Blake (Illustrator)"
+    ],
+    "languages": [
+        {
+            "key": "/languages/eng"
+        }
+    ],
+    "classifications": {},
+    "source_records": [
+        "amazon:0142410373:2-bg:758385065:189567",
+        "marc:marc_openlibraries_phillipsacademy/PANO_FOR_IA_05072019.mrc:48608807:1405",
+        "bwb:9780142410370",
+        "ia:matilda0000dahl_g7v6",
+        "promise:bwb_daily_pallets_2024-01-catchup:W7-CRD-625"
+    ],
+    "title": "Matilda",
+    "number_of_pages": 240,
+    "isbn_13": [
+        "9780142410370"
+    ],
+    "edition_name": "Reprint edition",
+    "subjects": [
+        "Juvenile Fiction",
+        "Children's Books/Ages 9-12 Fiction",
+        "Children's Books/All Ages",
+        "Children: Grades 3-4",
+        "Action & Adventure - General",
+        "Classics",
+        "Juvenile Fiction / Action & Adventure",
+        "School & Education",
+        "Science Fiction, Fantasy, & Magic",
+        "Fiction",
+        "Humorous Stories",
+        "Schools"
+    ],
+    "publish_date": "2007",
+    "works": [
+        {
+            "key": "/works/OL45846W"
+        }
+    ],
+    "type": {
+        "key": "/type/edition"
+    },
+    "physical_dimensions": "7.7 x 5 x 0.7 inches",
+    "latest_revision": 16,
+    "revision": 16,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-07T03:08:15.388776"
+    }
+}

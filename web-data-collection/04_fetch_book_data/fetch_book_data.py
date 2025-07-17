@@ -34,7 +34,7 @@ def fetch_book_data(isbn):
         book_data = response.json()
 
         # Saving the data to a file (like storing the meal to-go)
-        with open("book_data.json", "w", encoding="utf-8") as f:
+        with open("book_data.json", "r+", encoding="utf-8") as f:
             json.dump(book_data, f, indent=4)
 
         print("Success! Data saved to 'book_data.json'")

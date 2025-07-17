@@ -14,7 +14,7 @@ driver_path = r"C:\Users\Joshi Mayuresh\Downloads\chromedriver-win64\chromedrive
 driver = webdriver.Chrome(executable_path=driver_path, options=options)
 
 # Input and output file paths
-INPUT_FILE = r"C:\Users\Joshi Mayuresh\Desktop\data-science-playground\python-snippets\web-data-collection\books_crawler\mystery_books.json"
+INPUT_FILE = r"C:\Users\Joshi Mayuresh\Desktop\data-science-playground\python-snippets\web-data-collection\02_books_crawler\mystery_books.json"
 OUTPUT_FILE = "mystery_books_detailed.json"
 
 # Load crawled URLs

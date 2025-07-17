@@ -78,29 +78,7 @@ In compiled languages, such as C or Java, the source code is fully translated in
 
 In interpreted languages like Python, the source code is read and executed line by line by an interpreter. This allows for faster development and easier debugging, though it may not match the raw performance of compiled languages.
 
-<div style="display: flex; gap: 20px; justify-content: flex-start; align-items: flex-start;">
-
-  <div style="width: 300px;">
-    <h4>Compiled Language Execution (e.g., C/C++)</h4>
-    <pre class="mermaid">
-      flowchart TD
-        A1[C / C++ Source] --> B1[Compiler]
-        B1 --> C1[Machine Code]
-        C1 --> D1[Runs on CPU]
-    </pre>
-  </div>
-
-  <div style="width: 300px;">
-    <h4>Interpreted Language Execution (e.g., Python)</h4>
-    <pre class="mermaid">
-      flowchart TD
-        A2[Python Source] --> B2[Interpreter]
-        B2 --> C2[Line-by-Line Execution]
-        C2 --> D2[Runs on CPU]
-    </pre>
-  </div>
-
-</div>
+<img src="assets\Compile_vs_interpreted.png" alt="Compiled vs Interpreted Execution Flow" width="600">
 
 ---
 
