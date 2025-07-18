@@ -18,7 +18,9 @@ A more formal definition from **Tom Mitchell** (1997) states:
 
 Traditional software systems are based on **explicit rules**: programmers define every possible condition and outcome. However, for many real-world problems, writing all the rules manually is either **impractical** or **impossible**.
 
-![Traditional_approach](assets\Traditional_approach.png)
+<p>
+    <img src="assets\Traditional_approach.png" width="450" height="250" />
+</p>
 
 Here’s why Machine Learning is useful:
 
@@ -28,7 +30,9 @@ Here’s why Machine Learning is useful:
 - **Reveals insights**: ML can uncover relationships or trends in large datasets that are difficult to detect manually (data mining).
 - **Supports automation**: From fraud detection to product recommendations, ML powers intelligent automation in modern systems.
 
-![ML_approach](assets\ML_appraoch.png)
+<p>
+    <img src="assets\ML_appraoch.png" width="450" height="250" />
+</p>
 
 ---
 
@@ -60,7 +64,9 @@ Machine Learning exists within a broader technological and scientific landscape.
 
 Here’s a conceptual diagram illustrating these relationships:
 
-![AI-ML-DL-DS Venn Diagram](assets\venn_ai_ml_ds.png)
+<p>
+    <img src="assets\venn_ai_ml_ds.png" width="450" height="256" />
+</p>
 
 ---
 
